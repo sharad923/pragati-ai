@@ -1,0 +1,251 @@
+complaint_id,village_id,village_name,district,state,description,category,severity,status,created_at,resolved_at
+V001-C01,V001,Rampur,Meerut,Uttar Pradesh,The hand pump near the primary school is not working.,Water,High,Pending,2026-09-05,
+V001-C02,V001,Rampur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,In Progress,2026-09-01,
+V001-C03,V001,Rampur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,Pending,2026-08-16,
+V001-C04,V001,Rampur,Meerut,Uttar Pradesh,Garbage is not collected regularly and is accumulating near homes.,Waste Management,High,Resolved,2026-08-19,2026-08-27
+V001-C05,V001,Rampur,Meerut,Uttar Pradesh,Drinking water supply has been irregular for the last 7 days.,Water,High,Pending,2026-08-21,
+V002-C01,V002,Shivpur,Meerut,Uttar Pradesh,Low voltage is affecting household electrical appliances.,Electricity,Medium,Pending,2026-08-22,
+V002-C02,V002,Shivpur,Meerut,Uttar Pradesh,The local agricultural service point is not regularly available.,Agriculture,Medium,Pending,2026-08-19,
+V002-C03,V002,Shivpur,Meerut,Uttar Pradesh,Wastewater is flowing onto the village lane because the drain is damaged.,Sanitation,High,Pending,2026-08-24,
+V002-C04,V002,Shivpur,Meerut,Uttar Pradesh,Plastic and household waste is being burned in open areas.,Waste Management,Medium,Resolved,2026-08-26,2026-09-04
+V002-C05,V002,Shivpur,Meerut,Uttar Pradesh,Farmers report insufficient irrigation water for the current crop.,Agriculture,High,Pending,2026-08-28,
+V003-C01,V003,Lakshmipur,Meerut,Uttar Pradesh,Plastic and household waste is being burned in open areas.,Waste Management,Medium,Pending,2026-08-31,
+V003-C02,V003,Lakshmipur,Meerut,Uttar Pradesh,The primary school has a shortage of functional toilets.,School,High,In Progress,2026-08-15,
+V003-C03,V003,Lakshmipur,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,In Progress,2026-08-07,
+V003-C04,V003,Lakshmipur,Meerut,Uttar Pradesh,The public toilet is poorly maintained and unusable.,Sanitation,Medium,Pending,2026-08-10,
+V003-C05,V003,Lakshmipur,Meerut,Uttar Pradesh,Several street lights near the main road are not working.,Electricity,Medium,In Progress,2026-08-30,
+V004-C01,V004,Lakhanpur,Meerut,Uttar Pradesh,Basic diagnostic equipment is unavailable at the health facility.,Healthcare,High,In Progress,2026-09-02,
+V004-C02,V004,Lakhanpur,Meerut,Uttar Pradesh,Farmers report insufficient irrigation water for the current crop.,Agriculture,High,Pending,2026-08-13,
+V004-C03,V004,Lakhanpur,Meerut,Uttar Pradesh,Farmers report insufficient irrigation water for the current crop.,Agriculture,High,Pending,2026-08-03,
+V004-C04,V004,Lakhanpur,Meerut,Uttar Pradesh,Low voltage is affecting household electrical appliances.,Electricity,Medium,Resolved,2026-09-03,2026-09-09
+V004-C05,V004,Lakhanpur,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,Pending,2026-09-01,
+V005-C01,V005,Devpura,Meerut,Uttar Pradesh,Open dumping near the village pond is causing hygiene concerns.,Waste Management,High,Resolved,2026-08-30,2026-09-01
+V005-C02,V005,Devpura,Meerut,Uttar Pradesh,A village lane has broken drainage and standing water.,Road,Medium,Pending,2026-08-17,
+V005-C03,V005,Devpura,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,Resolved,2026-08-31,2026-09-05
+V005-C04,V005,Devpura,Meerut,Uttar Pradesh,The health centre has inadequate waiting facilities.,Healthcare,Medium,Pending,2026-08-07,
+V005-C05,V005,Devpura,Meerut,Uttar Pradesh,Residents are getting muddy water from the public tap.,Water,High,Resolved,2026-08-29,2026-08-31
+V006-C01,V006,Kalyanpur,Meerut,Uttar Pradesh,The hand pump near the primary school is not working.,Water,High,In Progress,2026-08-03,
+V006-C02,V006,Kalyanpur,Meerut,Uttar Pradesh,Students do not have enough desks and benches.,School,Medium,Pending,2026-08-10,
+V006-C03,V006,Kalyanpur,Meerut,Uttar Pradesh,The public toilet is poorly maintained and unusable.,Sanitation,Medium,Pending,2026-09-04,
+V006-C04,V006,Kalyanpur,Meerut,Uttar Pradesh,A water pipeline is leaking near the residential area.,Water,Medium,Resolved,2026-09-08,2026-09-17
+V006-C05,V006,Kalyanpur,Meerut,Uttar Pradesh,Open dumping near the village pond is causing hygiene concerns.,Waste Management,High,In Progress,2026-08-27,
+V007-C01,V007,Madhopur,Meerut,Uttar Pradesh,Several households do not have access to a functional toilet.,Sanitation,High,Pending,2026-08-13,
+V007-C02,V007,Madhopur,Meerut,Uttar Pradesh,Garbage is not collected regularly and is accumulating near homes.,Waste Management,High,Pending,2026-08-05,
+V007-C03,V007,Madhopur,Meerut,Uttar Pradesh,Wastewater is flowing onto the village lane because the drain is damaged.,Sanitation,High,Pending,2026-08-02,
+V007-C04,V007,Madhopur,Meerut,Uttar Pradesh,The village transformer is frequently failing.,Electricity,High,Pending,2026-08-20,
+V007-C05,V007,Madhopur,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,In Progress,2026-08-30,
+V008-C01,V008,Haripur,Meerut,Uttar Pradesh,The community waste bin is overflowing and not cleared on time.,Waste Management,High,Pending,2026-08-05,
+V008-C02,V008,Haripur,Meerut,Uttar Pradesh,Drinking water supply has been irregular for the last 4 days.,Water,High,Pending,2026-08-12,
+V008-C03,V008,Haripur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,Resolved,2026-08-29,2026-09-02
+V008-C04,V008,Haripur,Meerut,Uttar Pradesh,A village lane has broken drainage and standing water.,Road,Medium,In Progress,2026-08-09,
+V008-C05,V008,Haripur,Meerut,Uttar Pradesh,Several street lights near the main road are not working.,Electricity,Medium,Pending,2026-08-09,
+V009-C01,V009,Sultanpur,Meerut,Uttar Pradesh,Open dumping near the village pond is causing hygiene concerns.,Waste Management,High,Pending,2026-08-23,
+V009-C02,V009,Sultanpur,Meerut,Uttar Pradesh,A village lane has broken drainage and standing water.,Road,Medium,Pending,2026-08-27,
+V009-C03,V009,Sultanpur,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,Pending,2026-09-03,
+V009-C04,V009,Sultanpur,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,In Progress,2026-09-03,
+V009-C05,V009,Sultanpur,Meerut,Uttar Pradesh,Drinking water supply has been irregular for the last 4 days.,Water,High,Pending,2026-08-15,
+V010-C01,V010,Gopalpur,Meerut,Uttar Pradesh,The hand pump near the primary school is not working.,Water,High,Resolved,2026-08-23,2026-08-29
+V010-C02,V010,Gopalpur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,Pending,2026-09-04,
+V010-C03,V010,Gopalpur,Meerut,Uttar Pradesh,Low voltage is affecting household electrical appliances.,Electricity,Medium,In Progress,2026-09-05,
+V010-C04,V010,Gopalpur,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,In Progress,2026-08-19,
+V010-C05,V010,Gopalpur,Meerut,Uttar Pradesh,The community waste bin is overflowing and not cleared on time.,Waste Management,High,In Progress,2026-08-07,
+V011-C01,V011,Chandpur,Meerut,Uttar Pradesh,The hand pump near the primary school is not working.,Water,High,Pending,2026-09-02,
+V011-C02,V011,Chandpur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,Resolved,2026-08-19,2026-08-22
+V011-C03,V011,Chandpur,Meerut,Uttar Pradesh,The village water tank is not supplying water to several households.,Water,High,Pending,2026-08-05,
+V011-C04,V011,Chandpur,Meerut,Uttar Pradesh,The village water tank is not supplying water to several households.,Water,High,Pending,2026-08-01,
+V011-C05,V011,Chandpur,Meerut,Uttar Pradesh,Several street lights near the main road are not working.,Electricity,Medium,Pending,2026-08-20,
+V012-C01,V012,Basantpur,Meerut,Uttar Pradesh,Residents travel to the town for basic tests and medicines.,Healthcare,High,Resolved,2026-08-03,2026-08-09
+V012-C02,V012,Basantpur,Meerut,Uttar Pradesh,The school boundary wall is damaged and needs repair.,School,High,Pending,2026-09-08,
+V012-C03,V012,Basantpur,Meerut,Uttar Pradesh,The open drain near houses is blocked and stagnant water is accumulating.,Sanitation,High,In Progress,2026-09-02,
+V012-C04,V012,Basantpur,Meerut,Uttar Pradesh,A damaged electricity pole is leaning near residential houses.,Electricity,Critical,Resolved,2026-08-19,2026-08-25
+V012-C05,V012,Basantpur,Meerut,Uttar Pradesh,Garbage is not collected regularly and is accumulating near homes.,Waste Management,High,Pending,2026-08-02,
+V013-C01,V013,Nandgaon,Meerut,Uttar Pradesh,The village transformer is frequently failing.,Electricity,High,Resolved,2026-09-07,2026-09-16
+V013-C02,V013,Nandgaon,Meerut,Uttar Pradesh,Basic diagnostic equipment is unavailable at the health facility.,Healthcare,High,Pending,2026-09-05,
+V013-C03,V013,Nandgaon,Meerut,Uttar Pradesh,Garbage is not collected regularly and is accumulating near homes.,Waste Management,High,Pending,2026-08-08,
+V013-C04,V013,Nandgaon,Meerut,Uttar Pradesh,Several households do not have access to a functional toilet.,Sanitation,High,In Progress,2026-08-23,
+V013-C05,V013,Nandgaon,Meerut,Uttar Pradesh,A damaged electricity pole is leaning near residential houses.,Electricity,Critical,In Progress,2026-08-28,
+V014-C01,V014,Sundarpur,Meerut,Uttar Pradesh,Several street lights near the main road are not working.,Electricity,Medium,Pending,2026-09-04,
+V014-C02,V014,Sundarpur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,Resolved,2026-08-26,2026-08-29
+V014-C03,V014,Sundarpur,Meerut,Uttar Pradesh,Several street lights near the main road are not working.,Electricity,Medium,Pending,2026-08-02,
+V014-C04,V014,Sundarpur,Meerut,Uttar Pradesh,A village lane has broken drainage and standing water.,Road,Medium,Resolved,2026-08-17,2026-08-20
+V014-C05,V014,Sundarpur,Meerut,Uttar Pradesh,A water pipeline is leaking near the residential area.,Water,Medium,In Progress,2026-08-12,
+V015-C01,V015,Ramnagar,Meerut,Uttar Pradesh,Basic diagnostic equipment is unavailable at the health facility.,Healthcare,High,In Progress,2026-08-01,
+V015-C02,V015,Ramnagar,Meerut,Uttar Pradesh,The irrigation channel supplying farmland is damaged.,Agriculture,High,Resolved,2026-08-04,2026-08-13
+V015-C03,V015,Ramnagar,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,Resolved,2026-08-24,2026-08-28
+V015-C04,V015,Ramnagar,Meerut,Uttar Pradesh,Low voltage is affecting household electrical appliances.,Electricity,Medium,Resolved,2026-08-22,2026-08-28
+V015-C05,V015,Ramnagar,Meerut,Uttar Pradesh,Students do not have enough desks and benches.,School,Medium,Pending,2026-08-30,
+V016-C01,V016,Bhagwanpur,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,Resolved,2026-08-01,2026-08-10
+V016-C02,V016,Bhagwanpur,Meerut,Uttar Pradesh,Plastic and household waste is being burned in open areas.,Waste Management,Medium,Pending,2026-08-12,
+V016-C03,V016,Bhagwanpur,Meerut,Uttar Pradesh,Students do not have enough desks and benches.,School,Medium,Pending,2026-08-17,
+V016-C04,V016,Bhagwanpur,Meerut,Uttar Pradesh,Drinking water supply has been irregular for the last 3 days.,Water,High,Pending,2026-09-04,
+V016-C05,V016,Bhagwanpur,Meerut,Uttar Pradesh,The school boundary wall is damaged and needs repair.,School,High,Pending,2026-09-06,
+V017-C01,V017,Krishnapur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,Pending,2026-08-06,
+V017-C02,V017,Krishnapur,Meerut,Uttar Pradesh,A village lane has broken drainage and standing water.,Road,Medium,Pending,2026-09-05,
+V017-C03,V017,Krishnapur,Meerut,Uttar Pradesh,The irrigation channel supplying farmland is damaged.,Agriculture,High,Pending,2026-08-13,
+V017-C04,V017,Krishnapur,Meerut,Uttar Pradesh,Open dumping near the village pond is causing hygiene concerns.,Waste Management,High,Pending,2026-09-04,
+V017-C05,V017,Krishnapur,Meerut,Uttar Pradesh,The health centre does not have enough staff for regular services.,Healthcare,High,Resolved,2026-08-13,2026-08-14
+V018-C01,V018,Shankarpur,Meerut,Uttar Pradesh,The community waste bin is overflowing and not cleared on time.,Waste Management,High,Pending,2026-09-03,
+V018-C02,V018,Shankarpur,Meerut,Uttar Pradesh,Students do not have enough desks and benches.,School,Medium,Pending,2026-08-10,
+V018-C03,V018,Shankarpur,Meerut,Uttar Pradesh,The open drain near houses is blocked and stagnant water is accumulating.,Sanitation,High,Resolved,2026-08-01,2026-08-03
+V018-C04,V018,Shankarpur,Meerut,Uttar Pradesh,A damaged electricity pole is leaning near residential houses.,Electricity,Critical,Pending,2026-08-14,
+V018-C05,V018,Shankarpur,Meerut,Uttar Pradesh,The community waste bin is overflowing and not cleared on time.,Waste Management,High,Pending,2026-08-16,
+V019-C01,V019,Govindpur,Meerut,Uttar Pradesh,The local agricultural service point is not regularly available.,Agriculture,Medium,Pending,2026-08-08,
+V019-C02,V019,Govindpur,Meerut,Uttar Pradesh,A village lane has broken drainage and standing water.,Road,Medium,Pending,2026-09-05,
+V019-C03,V019,Govindpur,Meerut,Uttar Pradesh,Wastewater is flowing onto the village lane because the drain is damaged.,Sanitation,High,Pending,2026-09-07,
+V019-C04,V019,Govindpur,Meerut,Uttar Pradesh,The village health centre often has no essential medicines.,Healthcare,High,In Progress,2026-09-01,
+V019-C05,V019,Govindpur,Meerut,Uttar Pradesh,The road to the primary school is uneven and unsafe for children.,Road,High,Pending,2026-08-11,
+V020-C01,V020,Jagdishpur,Meerut,Uttar Pradesh,A village lane has broken drainage and standing water.,Road,Medium,Pending,2026-08-12,
+V020-C02,V020,Jagdishpur,Meerut,Uttar Pradesh,The village transformer is frequently failing.,Electricity,High,In Progress,2026-08-23,
+V020-C03,V020,Jagdishpur,Meerut,Uttar Pradesh,Wastewater is flowing onto the village lane because the drain is damaged.,Sanitation,High,Pending,2026-09-07,
+V020-C04,V020,Jagdishpur,Meerut,Uttar Pradesh,The health centre does not have enough staff for regular services.,Healthcare,High,In Progress,2026-09-06,
+V020-C05,V020,Jagdishpur,Meerut,Uttar Pradesh,There is no proper waste collection point in the village.,Waste Management,Medium,Pending,2026-08-18,
+V021-C01,V021,Narayanpur,Meerut,Uttar Pradesh,The village water tank is not supplying water to several households.,Water,High,Resolved,2026-08-22,2026-08-31
+V021-C02,V021,Narayanpur,Meerut,Uttar Pradesh,Frequent power cuts are affecting households every evening.,Electricity,High,In Progress,2026-08-19,
+V021-C03,V021,Narayanpur,Meerut,Uttar Pradesh,Plastic and household waste is being burned in open areas.,Waste Management,Medium,Pending,2026-08-02,
+V021-C04,V021,Narayanpur,Meerut,Uttar Pradesh,A damaged electricity pole is leaning near residential houses.,Electricity,Critical,Pending,2026-08-22,
+V021-C05,V021,Narayanpur,Meerut,Uttar Pradesh,A village lane has broken drainage and standing water.,Road,Medium,Pending,2026-09-03,
+V022-C01,V022,Rajapur,Meerut,Uttar Pradesh,Low voltage is affecting household electrical appliances.,Electricity,Medium,Pending,2026-08-09,
+V022-C02,V022,Rajapur,Meerut,Uttar Pradesh,Low voltage is affecting household electrical appliances.,Electricity,Medium,Resolved,2026-08-31,2026-09-08
+V022-C03,V022,Rajapur,Meerut,Uttar Pradesh,Wastewater is flowing onto the village lane because the drain is damaged.,Sanitation,High,In Progress,2026-08-03,
+V022-C04,V022,Rajapur,Meerut,Uttar Pradesh,The village health centre often has no essential medicines.,Healthcare,High,Pending,2026-08-21,
+V022-C05,V022,Rajapur,Meerut,Uttar Pradesh,The hand pump near the primary school is not working.,Water,High,Pending,2026-09-02,
+V023-C01,V023,Maheshpur,Meerut,Uttar Pradesh,The primary school has a shortage of functional toilets.,School,High,Resolved,2026-08-22,2026-08-30
+V023-C02,V023,Maheshpur,Meerut,Uttar Pradesh,The hand pump near the primary school is not working.,Water,High,In Progress,2026-08-11,
+V023-C03,V023,Maheshpur,Meerut,Uttar Pradesh,The village health centre often has no essential medicines.,Healthcare,High,In Progress,2026-08-27,
+V023-C04,V023,Maheshpur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,Pending,2026-08-09,
+V023-C05,V023,Maheshpur,Meerut,Uttar Pradesh,The village water tank is not supplying water to several households.,Water,High,Pending,2026-08-03,
+V024-C01,V024,Sitarampur,Meerut,Uttar Pradesh,Basic diagnostic equipment is unavailable at the health facility.,Healthcare,High,Pending,2026-08-23,
+V024-C02,V024,Sitarampur,Meerut,Uttar Pradesh,Farmers report insufficient irrigation water for the current crop.,Agriculture,High,Resolved,2026-09-01,2026-09-06
+V024-C03,V024,Sitarampur,Meerut,Uttar Pradesh,The irrigation channel supplying farmland is damaged.,Agriculture,High,Pending,2026-08-09,
+V024-C04,V024,Sitarampur,Meerut,Uttar Pradesh,Wastewater is flowing onto the village lane because the drain is damaged.,Sanitation,High,Pending,2026-08-30,
+V024-C05,V024,Sitarampur,Meerut,Uttar Pradesh,Basic diagnostic equipment is unavailable at the health facility.,Healthcare,High,Pending,2026-08-26,
+V025-C01,V025,Rampatti,Meerut,Uttar Pradesh,The school boundary wall is damaged and needs repair.,School,High,Resolved,2026-08-20,2026-08-30
+V025-C02,V025,Rampatti,Meerut,Uttar Pradesh,Garbage is not collected regularly and is accumulating near homes.,Waste Management,High,In Progress,2026-09-03,
+V025-C03,V025,Rampatti,Meerut,Uttar Pradesh,Plastic and household waste is being burned in open areas.,Waste Management,Medium,Pending,2026-08-22,
+V025-C04,V025,Rampatti,Meerut,Uttar Pradesh,The village health centre often has no essential medicines.,Healthcare,High,In Progress,2026-08-12,
+V025-C05,V025,Rampatti,Meerut,Uttar Pradesh,The school boundary wall is damaged and needs repair.,School,High,In Progress,2026-08-25,
+V026-C01,V026,Lakhania,Meerut,Uttar Pradesh,Several households do not have access to a functional toilet.,Sanitation,High,In Progress,2026-08-14,
+V026-C02,V026,Lakhania,Meerut,Uttar Pradesh,Farmers report insufficient irrigation water for the current crop.,Agriculture,High,In Progress,2026-08-09,
+V026-C03,V026,Lakhania,Meerut,Uttar Pradesh,The village water tank is not supplying water to several households.,Water,High,Pending,2026-08-26,
+V026-C04,V026,Lakhania,Meerut,Uttar Pradesh,Low voltage is affecting household electrical appliances.,Electricity,Medium,In Progress,2026-08-10,
+V026-C05,V026,Lakhania,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,In Progress,2026-08-09,
+V027-C01,V027,Chakrapur,Meerut,Uttar Pradesh,Open dumping near the village pond is causing hygiene concerns.,Waste Management,High,Pending,2026-08-09,
+V027-C02,V027,Chakrapur,Meerut,Uttar Pradesh,The school boundary wall is damaged and needs repair.,School,High,Pending,2026-08-09,
+V027-C03,V027,Chakrapur,Meerut,Uttar Pradesh,There is no proper waste collection point in the village.,Waste Management,Medium,In Progress,2026-08-12,
+V027-C04,V027,Chakrapur,Meerut,Uttar Pradesh,Plastic and household waste is being burned in open areas.,Waste Management,Medium,Resolved,2026-09-01,2026-09-02
+V027-C05,V027,Chakrapur,Meerut,Uttar Pradesh,A damaged electricity pole is leaning near residential houses.,Electricity,Critical,Pending,2026-09-02,
+V028-C01,V028,Shivnagar,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,Pending,2026-08-31,
+V028-C02,V028,Shivnagar,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,Resolved,2026-09-07,2026-09-12
+V028-C03,V028,Shivnagar,Meerut,Uttar Pradesh,Open dumping near the village pond is causing hygiene concerns.,Waste Management,High,Pending,2026-08-11,
+V028-C04,V028,Shivnagar,Meerut,Uttar Pradesh,Drinking water supply has been irregular for the last 7 days.,Water,High,Pending,2026-08-28,
+V028-C05,V028,Shivnagar,Meerut,Uttar Pradesh,Several street lights near the main road are not working.,Electricity,Medium,In Progress,2026-08-15,
+V029-C01,V029,Bhairavpur,Meerut,Uttar Pradesh,A village lane has broken drainage and standing water.,Road,Medium,Resolved,2026-08-14,2026-08-22
+V029-C02,V029,Bhairavpur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,Pending,2026-08-31,
+V029-C03,V029,Bhairavpur,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,In Progress,2026-08-08,
+V029-C04,V029,Bhairavpur,Meerut,Uttar Pradesh,Wastewater is flowing onto the village lane because the drain is damaged.,Sanitation,High,Pending,2026-08-11,
+V029-C05,V029,Bhairavpur,Meerut,Uttar Pradesh,The health centre does not have enough staff for regular services.,Healthcare,High,Resolved,2026-08-13,2026-08-20
+V030-C01,V030,Durgapur,Meerut,Uttar Pradesh,The village water tank is not supplying water to several households.,Water,High,Pending,2026-08-26,
+V030-C02,V030,Durgapur,Meerut,Uttar Pradesh,The local agricultural service point is not regularly available.,Agriculture,Medium,Resolved,2026-08-18,2026-08-26
+V030-C03,V030,Durgapur,Meerut,Uttar Pradesh,Several classroom doors and windows are damaged.,School,Medium,In Progress,2026-08-10,
+V030-C04,V030,Durgapur,Meerut,Uttar Pradesh,Wastewater is flowing onto the village lane because the drain is damaged.,Sanitation,High,In Progress,2026-08-25,
+V030-C05,V030,Durgapur,Meerut,Uttar Pradesh,The community waste bin is overflowing and not cleared on time.,Waste Management,High,Pending,2026-09-05,
+V031-C01,V031,Amarpur,Meerut,Uttar Pradesh,Low voltage is affecting household electrical appliances.,Electricity,Medium,Resolved,2026-08-07,2026-08-12
+V031-C02,V031,Amarpur,Meerut,Uttar Pradesh,The village health centre often has no essential medicines.,Healthcare,High,Pending,2026-09-07,
+V031-C03,V031,Amarpur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,Pending,2026-09-06,
+V031-C04,V031,Amarpur,Meerut,Uttar Pradesh,Low voltage is affecting household electrical appliances.,Electricity,Medium,Pending,2026-08-31,
+V031-C05,V031,Amarpur,Meerut,Uttar Pradesh,There is no proper waste collection point in the village.,Waste Management,Medium,Pending,2026-08-09,
+V032-C01,V032,Lakshmanpur,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,Pending,2026-09-03,
+V032-C02,V032,Lakshmanpur,Meerut,Uttar Pradesh,The village water tank is not supplying water to several households.,Water,High,Resolved,2026-08-20,2026-08-24
+V032-C03,V032,Lakshmanpur,Meerut,Uttar Pradesh,Open dumping near the village pond is causing hygiene concerns.,Waste Management,High,Pending,2026-08-16,
+V032-C04,V032,Lakshmanpur,Meerut,Uttar Pradesh,A water pipeline is leaking near the residential area.,Water,Medium,Pending,2026-08-27,
+V032-C05,V032,Lakshmanpur,Meerut,Uttar Pradesh,The hand pump near the primary school is not working.,Water,High,Pending,2026-08-12,
+V033-C01,V033,Kishanpur,Meerut,Uttar Pradesh,There is no proper waste collection point in the village.,Waste Management,Medium,Pending,2026-08-03,
+V033-C02,V033,Kishanpur,Meerut,Uttar Pradesh,Several classroom doors and windows are damaged.,School,Medium,Resolved,2026-08-16,2026-08-22
+V033-C03,V033,Kishanpur,Meerut,Uttar Pradesh,Students do not have enough desks and benches.,School,Medium,Pending,2026-09-07,
+V033-C04,V033,Kishanpur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,Resolved,2026-08-11,2026-08-13
+V033-C05,V033,Kishanpur,Meerut,Uttar Pradesh,A water pipeline is leaking near the residential area.,Water,Medium,In Progress,2026-08-14,
+V034-C01,V034,Ramkola,Meerut,Uttar Pradesh,A village lane has broken drainage and standing water.,Road,Medium,Pending,2026-08-01,
+V034-C02,V034,Ramkola,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,Pending,2026-08-11,
+V034-C03,V034,Ramkola,Meerut,Uttar Pradesh,Open dumping near the village pond is causing hygiene concerns.,Waste Management,High,Pending,2026-08-17,
+V034-C04,V034,Ramkola,Meerut,Uttar Pradesh,Garbage is not collected regularly and is accumulating near homes.,Waste Management,High,Pending,2026-09-05,
+V034-C05,V034,Ramkola,Meerut,Uttar Pradesh,Plastic and household waste is being burned in open areas.,Waste Management,Medium,Pending,2026-08-03,
+V035-C01,V035,Premnagar,Meerut,Uttar Pradesh,The open drain near houses is blocked and stagnant water is accumulating.,Sanitation,High,Pending,2026-08-31,
+V035-C02,V035,Premnagar,Meerut,Uttar Pradesh,The irrigation channel supplying farmland is damaged.,Agriculture,High,Pending,2026-08-05,
+V035-C03,V035,Premnagar,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,Pending,2026-08-03,
+V035-C04,V035,Premnagar,Meerut,Uttar Pradesh,Wastewater is flowing onto the village lane because the drain is damaged.,Sanitation,High,Pending,2026-09-04,
+V035-C05,V035,Premnagar,Meerut,Uttar Pradesh,The school boundary wall is damaged and needs repair.,School,High,Pending,2026-09-04,
+V036-C01,V036,Gyanpur,Meerut,Uttar Pradesh,Garbage is not collected regularly and is accumulating near homes.,Waste Management,High,Pending,2026-08-27,
+V036-C02,V036,Gyanpur,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,Pending,2026-08-12,
+V036-C03,V036,Gyanpur,Meerut,Uttar Pradesh,Several street lights near the main road are not working.,Electricity,Medium,Pending,2026-08-13,
+V036-C04,V036,Gyanpur,Meerut,Uttar Pradesh,The road to the primary school is uneven and unsafe for children.,Road,High,Resolved,2026-08-18,2026-08-21
+V036-C05,V036,Gyanpur,Meerut,Uttar Pradesh,Residents are getting muddy water from the public tap.,Water,High,Pending,2026-08-02,
+V037-C01,V037,Shantipur,Meerut,Uttar Pradesh,Plastic and household waste is being burned in open areas.,Waste Management,Medium,Pending,2026-08-21,
+V037-C02,V037,Shantipur,Meerut,Uttar Pradesh,A water pipeline is leaking near the residential area.,Water,Medium,Pending,2026-08-09,
+V037-C03,V037,Shantipur,Meerut,Uttar Pradesh,The public toilet is poorly maintained and unusable.,Sanitation,Medium,In Progress,2026-09-01,
+V037-C04,V037,Shantipur,Meerut,Uttar Pradesh,The community waste bin is overflowing and not cleared on time.,Waste Management,High,Resolved,2026-09-02,2026-09-04
+V037-C05,V037,Shantipur,Meerut,Uttar Pradesh,The community waste bin is overflowing and not cleared on time.,Waste Management,High,Pending,2026-08-17,
+V038-C01,V038,Suryapur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,In Progress,2026-08-20,
+V038-C02,V038,Suryapur,Meerut,Uttar Pradesh,Frequent power cuts are affecting households every evening.,Electricity,High,Resolved,2026-08-22,2026-08-25
+V038-C03,V038,Suryapur,Meerut,Uttar Pradesh,The village transformer is frequently failing.,Electricity,High,Pending,2026-08-07,
+V038-C04,V038,Suryapur,Meerut,Uttar Pradesh,The health centre has inadequate waiting facilities.,Healthcare,Medium,Resolved,2026-09-08,2026-09-16
+V038-C05,V038,Suryapur,Meerut,Uttar Pradesh,The village health centre often has no essential medicines.,Healthcare,High,Pending,2026-08-09,
+V039-C01,V039,Mohanpur,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,Pending,2026-08-01,
+V039-C02,V039,Mohanpur,Meerut,Uttar Pradesh,Drinking water supply has been irregular for the last 3 days.,Water,High,Resolved,2026-08-15,2026-08-23
+V039-C03,V039,Mohanpur,Meerut,Uttar Pradesh,The open drain near houses is blocked and stagnant water is accumulating.,Sanitation,High,Pending,2026-08-18,
+V039-C04,V039,Mohanpur,Meerut,Uttar Pradesh,Residents are getting muddy water from the public tap.,Water,High,Pending,2026-08-17,
+V039-C05,V039,Mohanpur,Meerut,Uttar Pradesh,The school boundary wall is damaged and needs repair.,School,High,Pending,2026-08-31,
+V040-C01,V040,Vijaypur,Meerut,Uttar Pradesh,A damaged electricity pole is leaning near residential houses.,Electricity,Critical,Resolved,2026-08-15,2026-08-21
+V040-C02,V040,Vijaypur,Meerut,Uttar Pradesh,The hand pump near the primary school is not working.,Water,High,Pending,2026-08-15,
+V040-C03,V040,Vijaypur,Meerut,Uttar Pradesh,The school boundary wall is damaged and needs repair.,School,High,Pending,2026-09-04,
+V040-C04,V040,Vijaypur,Meerut,Uttar Pradesh,A water pipeline is leaking near the residential area.,Water,Medium,Resolved,2026-08-20,2026-08-29
+V040-C05,V040,Vijaypur,Meerut,Uttar Pradesh,Residents are getting muddy water from the public tap.,Water,High,Resolved,2026-08-23,2026-08-31
+V041-C01,V041,Saraswati Nagar,Meerut,Uttar Pradesh,Several street lights near the main road are not working.,Electricity,Medium,Pending,2026-09-07,
+V041-C02,V041,Saraswati Nagar,Meerut,Uttar Pradesh,A village lane has broken drainage and standing water.,Road,Medium,In Progress,2026-08-04,
+V041-C03,V041,Saraswati Nagar,Meerut,Uttar Pradesh,Drinking water supply has been irregular for the last 10 days.,Water,High,Pending,2026-09-02,
+V041-C04,V041,Saraswati Nagar,Meerut,Uttar Pradesh,Students do not have enough desks and benches.,School,Medium,Resolved,2026-08-15,2026-08-24
+V041-C05,V041,Saraswati Nagar,Meerut,Uttar Pradesh,A water pipeline is leaking near the residential area.,Water,Medium,Pending,2026-09-02,
+V042-C01,V042,Deviganj,Meerut,Uttar Pradesh,Farmers report insufficient irrigation water for the current crop.,Agriculture,High,Resolved,2026-08-24,2026-08-28
+V042-C02,V042,Deviganj,Meerut,Uttar Pradesh,The community waste bin is overflowing and not cleared on time.,Waste Management,High,Pending,2026-08-25,
+V042-C03,V042,Deviganj,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,Pending,2026-08-16,
+V042-C04,V042,Deviganj,Meerut,Uttar Pradesh,Residents are getting muddy water from the public tap.,Water,High,Pending,2026-08-26,
+V042-C05,V042,Deviganj,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,Pending,2026-09-02,
+V043-C01,V043,Keshavpur,Meerut,Uttar Pradesh,A water pipeline is leaking near the residential area.,Water,Medium,Resolved,2026-09-03,2026-09-05
+V043-C02,V043,Keshavpur,Meerut,Uttar Pradesh,Residents are getting muddy water from the public tap.,Water,High,Pending,2026-08-21,
+V043-C03,V043,Keshavpur,Meerut,Uttar Pradesh,Drinking water supply has been irregular for the last 3 days.,Water,High,In Progress,2026-08-05,
+V043-C04,V043,Keshavpur,Meerut,Uttar Pradesh,The hand pump near the primary school is not working.,Water,High,Pending,2026-08-27,
+V043-C05,V043,Keshavpur,Meerut,Uttar Pradesh,Drinking water supply has been irregular for the last 4 days.,Water,High,Resolved,2026-09-05,2026-09-11
+V044-C01,V044,Raghunathpur,Meerut,Uttar Pradesh,The primary school has a shortage of functional toilets.,School,High,In Progress,2026-08-28,
+V044-C02,V044,Raghunathpur,Meerut,Uttar Pradesh,The hand pump near the primary school is not working.,Water,High,In Progress,2026-08-02,
+V044-C03,V044,Raghunathpur,Meerut,Uttar Pradesh,The village transformer is frequently failing.,Electricity,High,Pending,2026-08-29,
+V044-C04,V044,Raghunathpur,Meerut,Uttar Pradesh,Residents are getting muddy water from the public tap.,Water,High,In Progress,2026-08-23,
+V044-C05,V044,Raghunathpur,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,Pending,2026-08-12,
+V045-C01,V045,Adarshpur,Meerut,Uttar Pradesh,The hand pump near the primary school is not working.,Water,High,In Progress,2026-08-10,
+V045-C02,V045,Adarshpur,Meerut,Uttar Pradesh,Basic diagnostic equipment is unavailable at the health facility.,Healthcare,High,In Progress,2026-08-28,
+V045-C03,V045,Adarshpur,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,Pending,2026-08-05,
+V045-C04,V045,Adarshpur,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,Pending,2026-08-17,
+V045-C05,V045,Adarshpur,Meerut,Uttar Pradesh,Low voltage is affecting household electrical appliances.,Electricity,Medium,Pending,2026-08-20,
+V046-C01,V046,Mangalpur,Meerut,Uttar Pradesh,Open dumping near the village pond is causing hygiene concerns.,Waste Management,High,Pending,2026-08-30,
+V046-C02,V046,Mangalpur,Meerut,Uttar Pradesh,The road to the primary school is uneven and unsafe for children.,Road,High,Pending,2026-09-07,
+V046-C03,V046,Mangalpur,Meerut,Uttar Pradesh,The road to the primary school is uneven and unsafe for children.,Road,High,Resolved,2026-08-20,2026-08-25
+V046-C04,V046,Mangalpur,Meerut,Uttar Pradesh,Frequent power cuts are affecting households every evening.,Electricity,High,Pending,2026-08-16,
+V046-C05,V046,Mangalpur,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,Pending,2026-09-08,
+V047-C01,V047,Vishnupur,Meerut,Uttar Pradesh,The village transformer is frequently failing.,Electricity,High,In Progress,2026-08-30,
+V047-C02,V047,Vishnupur,Meerut,Uttar Pradesh,The open drain near houses is blocked and stagnant water is accumulating.,Sanitation,High,In Progress,2026-08-28,
+V047-C03,V047,Vishnupur,Meerut,Uttar Pradesh,The school drinking-water facility is not functioning properly.,School,High,In Progress,2026-08-21,
+V047-C04,V047,Vishnupur,Meerut,Uttar Pradesh,Basic diagnostic equipment is unavailable at the health facility.,Healthcare,High,Pending,2026-08-23,
+V047-C05,V047,Vishnupur,Meerut,Uttar Pradesh,The road to the primary school is uneven and unsafe for children.,Road,High,Pending,2026-08-31,
+V048-C01,V048,Shyampur,Meerut,Uttar Pradesh,The internal road near the health centre needs repair.,Road,Medium,In Progress,2026-08-08,
+V048-C02,V048,Shyampur,Meerut,Uttar Pradesh,Residents are getting muddy water from the public tap.,Water,High,Pending,2026-08-25,
+V048-C03,V048,Shyampur,Meerut,Uttar Pradesh,The village water tank is not supplying water to several households.,Water,High,Pending,2026-08-14,
+V048-C04,V048,Shyampur,Meerut,Uttar Pradesh,The village health centre often has no essential medicines.,Healthcare,High,Pending,2026-08-12,
+V048-C05,V048,Shyampur,Meerut,Uttar Pradesh,The road to the primary school is uneven and unsafe for children.,Road,High,Pending,2026-09-04,
+V049-C01,V049,Sanjaypur,Meerut,Uttar Pradesh,The health centre has inadequate waiting facilities.,Healthcare,Medium,In Progress,2026-08-08,
+V049-C02,V049,Sanjaypur,Meerut,Uttar Pradesh,The main village road has large potholes and becomes difficult to use after rain.,Road,High,Resolved,2026-08-05,2026-08-12
+V049-C03,V049,Sanjaypur,Meerut,Uttar Pradesh,The primary school has a shortage of functional toilets.,School,High,Resolved,2026-08-29,2026-09-07
+V049-C04,V049,Sanjaypur,Meerut,Uttar Pradesh,Drinking water supply has been irregular for the last 5 days.,Water,High,Resolved,2026-08-27,2026-09-05
+V049-C05,V049,Sanjaypur,Meerut,Uttar Pradesh,Residents are getting muddy water from the public tap.,Water,High,Pending,2026-08-04,
+V050-C01,V050,Govardhanpur,Meerut,Uttar Pradesh,Drinking water supply has been irregular for the last 3 days.,Water,High,Resolved,2026-08-30,2026-09-06
+V050-C02,V050,Govardhanpur,Meerut,Uttar Pradesh,The school drinking-water facility is not functioning properly.,School,High,In Progress,2026-08-10,
+V050-C03,V050,Govardhanpur,Meerut,Uttar Pradesh,Farmers report insufficient irrigation water for the current crop.,Agriculture,High,Pending,2026-08-09,
+V050-C04,V050,Govardhanpur,Meerut,Uttar Pradesh,The village water tank is not supplying water to several households.,Water,High,In Progress,2026-09-03,
+V050-C05,V050,Govardhanpur,Meerut,Uttar Pradesh,The road connecting the village to the nearest market is badly damaged.,Road,High,In Progress,2026-08-11,
